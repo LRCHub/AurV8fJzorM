@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ミッドナイトガール",
+  "base_artist": "imase",
+  "createdAt": "2026-01-12T11:02:29.443057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミッドナイトガール",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/01_ミッドナイトガール_imase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミッドナイトガール - Midnight Girl",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/02_ミッドナイトガール_-_Midnight_Girl_imase.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミッドナイトガール",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_ミッドナイトガール_imase.txt"
+    }
+  ]
+}
